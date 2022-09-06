@@ -90,4 +90,4 @@ Create a todo list using React.js
 - store value on input to state onChange
 - onClick on + button
 - when clicked called function to get the value of the input from state
-- store it in state as an object with unique id & message
+- store it in state as an object with unique id & message ( added completed status with strikethrough style)
