@@ -1,0 +1,62 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  margin-bottom: 24px;
+}
+
+.inputContainer {
+}
+
+.input {
+  margin-bottom: 24px;
+}
+
+.listContainer {
+  background-color: aliceblue;
+  max-width: 500px;
+  overflow: hidden;
+  padding: 20px;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 32px;
+}
+
+.listitemContainer {
+  background-color: cornsilk;
+}
+
+.listitemText {
+  background-color: lightblue;
+}
+
+.listitemButtons {
+  display: flex;
+  flex-direction: row;
+  background-color: cornflowerblue;
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.modalContainer {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
