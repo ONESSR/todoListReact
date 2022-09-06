@@ -28,15 +28,15 @@ Create a todo list using React.js
 
 ### Sketches
 
-![todo ui sketch mobile](src/images/todo-list-react-sketch-ui.png)
+![todo ui sketch mobile](./images/todo-list-react-sketch-ui.png)
 
 ### Moodboard
 
-![moodboard for design inspiration](src/images/moodboard.png)
+![moodboard for design inspiration](./images/moodboard.png)
 
 ### Components / Hierarchy
 
-![Component Hierarchy](src/images/componentHierarchy.png)
+![Component Hierarchy](./images/componentHierarchy.png)
 
 - App
   - Header
