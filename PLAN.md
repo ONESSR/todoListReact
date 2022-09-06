@@ -53,8 +53,6 @@ Create a todo list using React.js
 
 ### Lo-fi wireframes
 
-![lo fidelity wireframes](#)
-
 ### Stretch goals
 
 - use css to style
