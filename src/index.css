@@ -26,11 +26,13 @@
 
 ul {
   padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
 }
 
 li {
   list-style: none;
-  margin-bottom: 32px;
 }
 
 .listitemContainer {
